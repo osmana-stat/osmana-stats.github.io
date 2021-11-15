@@ -1,2 +1,2 @@
 # osmana-stats.github.io
-osmana group webpage
+osmana group webpage repo
