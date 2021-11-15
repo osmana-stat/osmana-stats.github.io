@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on OSMANA-STATS</title>
+    <link>http://osmana-stats.github.io/tags/</link>
+    <description>Recent content in Tags on OSMANA-STATS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Nov 2021 18:10:14 +0100</lastBuildDate><atom:link href="http://osmana-stats.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>complex-network</title>
+      <link>http://osmana-stats.github.io/tags/complex-network/</link>
+      <pubDate>Sat, 13 Nov 2021 18:10:14 +0100</pubDate>
+      
+      <guid>http://osmana-stats.github.io/tags/complex-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stein method</title>
+      <link>http://osmana-stats.github.io/tags/stein-method/</link>
+      <pubDate>Mon, 08 Nov 2021 18:10:14 +0100</pubDate>
+      
+      <guid>http://osmana-stats.github.io/tags/stein-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-series</title>
+      <link>http://osmana-stats.github.io/tags/time-series/</link>
+      <pubDate>Mon, 08 Nov 2021 18:10:14 +0100</pubDate>
+      
+      <guid>http://osmana-stats.github.io/tags/time-series/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
