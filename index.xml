@@ -46,42 +46,5 @@
       <description>Wenkai will give a tutorial on Introduction to Kernel Methods on the RSS workshop.</description>
     </item>
     
-    <item>
-      <title>About</title>
-      <link>http://osmana-stats.github.io/pages/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://osmana-stats.github.io/pages/about/</guid>
-      <description>Welcom to Oxford Stein&amp;rsquo;s Method and Network Analysis (OSMANA) research group in the Department of Statistics.</description>
-    </item>
-    
-    <item>
-      <title>Members</title>
-      <link>http://osmana-stats.github.io/pages/member/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://osmana-stats.github.io/pages/member/</guid>
-      <description>Faculties Professor Gesine Reinert I am a University Professor in Statistics, and also a Fellow of Keble College. I am also a Fellow of the Alan Turing Institute. Professor Mihai Cucuringu I am an Associate Professor in the Department of Statistics, and an Affiliate Faculty in the Mathematical Institute at University of Oxford. I am also a Stipendiary Lecturer in Statistics at Merton College, University of Oxford, a Turing Fellow at The Alan Turing Institute in London, and a Senior Research Fellow at the Institute for New Economic Thinking at the Oxford Martin School.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://osmana-stats.github.io/pages/pubs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://osmana-stats.github.io/pages/pubs/</guid>
-      <description>Stein&amp;rsquo;s Method Exponential Random Graph Models Graph Time-Series Graph Representation Learning </description>
-    </item>
-    
-    <item>
-      <title>Talks and Research</title>
-      <link>http://osmana-stats.github.io/pages/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://osmana-stats.github.io/pages/research/</guid>
-      <description>We are interested in a wide spectrum of problems and applications related to probability, statistics, Stein&amp;rsquo;s method, and network analysis.
-We hold Reading Groups and events regarding graph representation learning and machine learning methods to better tackle our problems.</description>
-    </item>
-    
   </channel>
 </rss>
