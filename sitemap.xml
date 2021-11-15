@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://osmana-stats.github.io/categories/</loc>
-    <lastmod>2021-11-13T18:10:14+01:00</lastmod>
+    <lastmod>2021-11-14T18:10:14+01:00</lastmod>
+  </url><url>
+    <loc>http://osmana-stats.github.io/news/</loc>
+    <lastmod>2021-11-14T18:10:14+01:00</lastmod>
+  </url><url>
+    <loc>http://osmana-stats.github.io/</loc>
+    <lastmod>2021-11-14T18:10:14+01:00</lastmod>
+  </url><url>
+    <loc>http://osmana-stats.github.io/tags/reading-group/</loc>
+    <lastmod>2021-11-14T18:10:14+01:00</lastmod>
+  </url><url>
+    <loc>http://osmana-stats.github.io/news/reading_group_nov17/</loc>
+    <lastmod>2021-11-14T18:10:14+01:00</lastmod>
+  </url><url>
+    <loc>http://osmana-stats.github.io/tags/</loc>
+    <lastmod>2021-11-14T18:10:14+01:00</lastmod>
+  </url><url>
+    <loc>http://osmana-stats.github.io/categories/talks/</loc>
+    <lastmod>2021-11-14T18:10:14+01:00</lastmod>
   </url><url>
     <loc>http://osmana-stats.github.io/event/cna2021/</loc>
     <lastmod>2021-11-13T18:10:14+01:00</lastmod>
@@ -15,12 +33,6 @@
     <lastmod>2021-11-13T18:10:14+01:00</lastmod>
   </url><url>
     <loc>http://osmana-stats.github.io/event/</loc>
-    <lastmod>2021-11-13T18:10:14+01:00</lastmod>
-  </url><url>
-    <loc>http://osmana-stats.github.io/</loc>
-    <lastmod>2021-11-13T18:10:14+01:00</lastmod>
-  </url><url>
-    <loc>http://osmana-stats.github.io/tags/</loc>
     <lastmod>2021-11-13T18:10:14+01:00</lastmod>
   </url><url>
     <loc>http://osmana-stats.github.io/event/kdd_milets/</loc>
@@ -35,18 +47,18 @@
     <loc>http://osmana-stats.github.io/tags/time-series/</loc>
     <lastmod>2021-11-08T18:10:14+01:00</lastmod>
   </url><url>
-    <loc>http://osmana-stats.github.io/page/about/</loc>
+    <loc>http://osmana-stats.github.io/pages/about/</loc>
   </url><url>
     <loc>http://osmana-stats.github.io/author/</loc>
   </url><url>
-    <loc>http://osmana-stats.github.io/page/member/</loc>
+    <loc>http://osmana-stats.github.io/pages/member/</loc>
   </url><url>
-    <loc>http://osmana-stats.github.io/page/</loc>
+    <loc>http://osmana-stats.github.io/pages/</loc>
   </url><url>
-    <loc>http://osmana-stats.github.io/page/pubs/</loc>
+    <loc>http://osmana-stats.github.io/pages/pubs/</loc>
   </url><url>
     <loc>http://osmana-stats.github.io/series/</loc>
   </url><url>
-    <loc>http://osmana-stats.github.io/page/research/</loc>
+    <loc>http://osmana-stats.github.io/pages/research/</loc>
   </url>
 </urlset>

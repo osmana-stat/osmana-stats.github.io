@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on OSMANA-STATS</title>
+    <link>http://osmana-stats.github.io/news/</link>
+    <description>Recent content in News on OSMANA-STATS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Nov 2021 18:10:14 +0100</lastBuildDate><atom:link href="http://osmana-stats.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading Group on Wednesday</title>
+      <link>http://osmana-stats.github.io/news/reading_group_nov17/</link>
+      <pubDate>Sun, 14 Nov 2021 18:10:14 +0100</pubDate>
+      
+      <guid>http://osmana-stats.github.io/news/reading_group_nov17/</guid>
+      <description>This week, Stefanos will give a introduction on node embeddings based on Graph Representation Learning book.</description>
+    </item>
+    
+  </channel>
+</rss>
